@@ -11,7 +11,7 @@ import (
 	"github.com/projectdiscovery/retryablehttp-go"
 )
 
-const BURP_URL = "https://polling.burpcollaborator.net/burpresults?biid="
+const BURP_URL = "https://collaborator4polling.act1on3.site/burpresults?biid="
 
 type BurpCollaborator struct {
 	sync.RWMutex
