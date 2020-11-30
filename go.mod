@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/collaborator
+module github.com/act1on3/collaborator
 
 go 1.14
 
